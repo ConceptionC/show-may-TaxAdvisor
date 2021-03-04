@@ -1,0 +1,209 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://conceptionseo.com/wp-content/uploads/2021/01/Line1block.png",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Chloé 育璇",
+            "color": "#aaaaaa",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "contents": [],
+            "flex": 2,
+            "wrap": true,
+            "text": "🌟中小企業總會數位行銷顧問\n🌟台北市旅遊同業工會數位行銷講師\n🌟台灣美妝公會網路行銷講師\n🌟行政院青輔會青年政策論壇主持人\n🌟嘉義市美髮美容工會數位行銷講師"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "聯絡電話",
+              "uri": "tel:+886905870119"
+            },
+            "style": "primary",
+            "color": "#C48888",
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "加Chloe的Line",
+              "uri": "https://line.me/ti/p/kqLGBGhpxw"
+            },
+            "style": "primary",
+            "color": "#B87070",
+            "height": "sm",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "個人簡介",
+              "uri": "https://conceptionseo.com/wp-content/uploads/2021/01/chloe-%E5%80%8B%E4%BA%BA%E7%B0%A1%E4%BB%8B.png"
+            },
+            "style": "primary",
+            "color": "#AD5A5A",
+            "margin": "md",
+            "height": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://conceptionseo.com/wp-content/uploads/2021/01/Line2block.png",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Conception 康思迅數位",
+            "color": "#aaaaaa",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "contents": [],
+            "flex": 2,
+            "wrap": true,
+            "text": "🌟桃園市青年局團隊（新明基地）\n🌟桃園青創日參與團隊\n🌟代表經濟部參與美國 CES 展覽\n🌟網站架設｜數位廣告｜SEO | 數據分析"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "公司網站",
+              "uri": "https://conceptionseo.com/"
+            },
+            "style": "primary",
+            "color": "#C48888",
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "粉絲專頁",
+              "uri": "https://www.facebook.com/B2Bemarketing"
+            },
+            "style": "primary",
+            "color": "#B87070",
+            "height": "sm",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "中小企業互助社團",
+              "uri": "https://www.facebook.com/groups/291646425160045"
+            },
+            "style": "primary",
+            "color": "#AD5A5A",
+            "margin": "md",
+            "height": "sm"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://conceptionseo.com/wp-content/uploads/2021/01/Line3block.png",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ShopTube 介紹",
+            "color": "#aaaaaa",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "contents": [],
+            "flex": 2,
+            "wrap": true,
+            "text": "台灣人骨子裡的行銷實力 \n🌟商品快速建立與上架🌟 \n🌟同步串流及影像處理🌟 \n🌟導購頁面 + 整合數據報表🌟"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ShopTube介紹",
+              "uri": "https://drive.google.com/file/d/1751CqPU1vIHU_3WTuWhVFmvlcGkpk5iJ/view"
+            },
+            "color": "#C48888",
+            "style": "primary",
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "官方IG帳號",
+              "uri": "https://www.instagram.com/hsuan.chloe/"
+            },
+            "style": "primary",
+            "color": "#B87070",
+            "height": "sm",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "分享給好友",
+              "uri": "https://lin.ee/rRBj9MV"
+            },
+            "style": "primary",
+            "color": "#AD5A5A",
+            "margin": "md",
+            "height": "sm"
+          }
+        ]
+      }
+    }
+  ]
+}
