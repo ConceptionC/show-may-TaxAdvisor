@@ -53,18 +53,6 @@
             "color": "#B87070",
             "height": "sm",
             "margin": "md"
-          },
-          {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "個人簡介",
-              "uri": "https://conceptionseo.com/wp-content/uploads/2021/01/chloe-%E5%80%8B%E4%BA%BA%E7%B0%A1%E4%BB%8B.png"
-            },
-            "style": "primary",
-            "color": "#AD5A5A",
-            "margin": "md",
-            "height": "sm"
           }
         ]
       }
@@ -103,17 +91,6 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "公司網站",
-              "uri": "https://conceptionseo.com/show-may"
-            },
-            "style": "primary",
-            "color": "#C48888",
-            "height": "sm"
-          },
-          {
-            "type": "button",
-            "action": {
-              "type": "uri",
               "label": "FB-徐秀梅",
               "uri": "https://www.facebook.com/people/%E5%BE%90%E7%A7%80%E6%A2%85/100041885714620"
             },
@@ -132,6 +109,17 @@
             "style": "primary",
             "color": "#AD5A5A",
             "margin": "md",
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "公司網站",
+              "uri": "https://conceptionseo.com/show-may"
+            },
+            "style": "primary",
+            "color": "#C48888",
             "height": "sm"
           }
         ]
@@ -159,7 +147,7 @@
             "contents": [],
             "flex": 2,
             "wrap": true,
-            "text": "🌟中原大學企業管理系畢業(輔修會計)🌟\n🌟宇正企業管理顧問有限公司負責人🌟 \n🌟宇姐~創業&稅務(Youtube)🌟 \n🌟服務上千家企業主🌟\n🌟專精企業五大管理的[財務管理]🌟"
+            "text": "🌟中原大學企業管理系畢業(輔修會計)\n🌟宇正企業管理顧問有限公司負責人\n🌟宇姐~創業&稅務(Youtube)\n🌟服務上千家企業主\n🌟專精企業五大管理的[財務管理]"
           }
         ]
       },
@@ -167,17 +155,6 @@
         "type": "box",
         "layout": "vertical",
         "contents": [
-          {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "Youtube短片",
-              "uri": "https://conceptionseo.com/show-may-youtube"
-            },
-            "color": "#C48888",
-            "style": "primary",
-            "height": "sm"
-          },
           {
             "type": "button",
             "action": {
@@ -200,6 +177,17 @@
             "style": "primary",
             "color": "#AD5A5A",
             "margin": "md",
+            "height": "sm"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Youtube短片",
+              "uri": "https://conceptionseo.com/show-may-youtube"
+            },
+            "color": "#C48888",
+            "style": "primary",
             "height": "sm"
           }
         ]
