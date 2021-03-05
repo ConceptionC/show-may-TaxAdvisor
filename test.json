@@ -5,7 +5,7 @@
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://conceptionseo.com/wp-content/uploads/2021/01/Line1block.png",
+        "url": "https://conceptionseo.com/wp-content/uploads/2021/03/S__9928716-scaled.jpg",
         "size": "full"
       },
       "body": {
@@ -14,7 +14,7 @@
         "contents": [
           {
             "type": "text",
-            "text": "Chloé 育璇",
+            "text": "徐秀梅 記帳士",
             "color": "#aaaaaa",
             "size": "xl"
           },
@@ -23,7 +23,7 @@
             "contents": [],
             "flex": 2,
             "wrap": true,
-            "text": "🌟中小企業總會數位行銷顧問\n🌟台北市旅遊同業工會數位行銷講師\n🌟台灣美妝公會網路行銷講師\n🌟行政院青輔會青年政策論壇主持人\n🌟嘉義市美髮美容工會數位行銷講師"
+            "text": "🌟第一屆專業代理人考試合格\n🌟宇正會計稅務記帳士事務所負責人\n🌟北科大中小企業財務管理顧問培訓班\n🌟桃園市記帳士公會第一屆財務長\n🌟桃園市記帳士公會歷屆監事.理事"
           }
         ]
       },
@@ -36,7 +36,7 @@
             "action": {
               "type": "uri",
               "label": "聯絡電話",
-              "uri": "tel:+886905870119"
+              "uri": "tel:+886930072180"
             },
             "style": "primary",
             "color": "#C48888",
@@ -46,7 +46,7 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "加Chloe的Line",
+              "label": "加我的Line",
               "uri": "https://line.me/ti/p/kqLGBGhpxw"
             },
             "style": "primary",
@@ -73,7 +73,7 @@
       "type": "bubble",
       "hero": {
         "type": "image",
-        "url": "https://conceptionseo.com/wp-content/uploads/2021/01/Line2block.png",
+        "url": "https://conceptionseo.com/wp-content/uploads/2021/03/S__9928719-scaled.jpg",
         "size": "full"
       },
       "body": {
@@ -82,7 +82,7 @@
         "contents": [
           {
             "type": "text",
-            "text": "Conception 康思迅數位",
+            "text": "宇正會計稅務記帳士事務所",
             "color": "#aaaaaa",
             "size": "xl"
           },
@@ -91,7 +91,7 @@
             "contents": [],
             "flex": 2,
             "wrap": true,
-            "text": "🌟桃園市青年局團隊（新明基地）\n🌟桃園青創日參與團隊\n🌟代表經濟部參與美國 CES 展覽\n🌟網站架設｜數位廣告｜SEO | 數據分析"
+            "text": "🌟民國92年設立\n🌟桃園客戶為主(服務範圍遍及全國)\n🌟公司/工廠/行號~營業登記\n🌟營利事業各項稅務申報諮詢.帳務處理\n🌟人民團體/財(社)團法人登記"
           }
         ]
       },
@@ -104,7 +104,7 @@
             "action": {
               "type": "uri",
               "label": "公司網站",
-              "uri": "https://conceptionseo.com/"
+              "uri": "https://conceptionseo.com/show-may"
             },
             "style": "primary",
             "color": "#C48888",
@@ -114,8 +114,8 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "粉絲專頁",
-              "uri": "https://www.facebook.com/B2Bemarketing"
+              "label": "FB-徐秀梅",
+              "uri": "https://www.facebook.com/people/%E5%BE%90%E7%A7%80%E6%A2%85/100041885714620"
             },
             "style": "primary",
             "color": "#B87070",
@@ -126,8 +126,8 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "中小企業互助社團",
-              "uri": "https://www.facebook.com/groups/291646425160045"
+              "label": "宇正粉絲專頁",
+              "uri": "https://www.facebook.com/%E5%AE%87%E6%AD%A3%E6%9C%83%E8%A8%88%E7%A8%85%E5%8B%99%E8%A8%98%E5%B8%B3%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80-111644130979788/"
             },
             "style": "primary",
             "color": "#AD5A5A",
@@ -150,7 +150,7 @@
         "contents": [
           {
             "type": "text",
-            "text": "ShopTube 介紹",
+            "text": "協助創業/展店",
             "color": "#aaaaaa",
             "size": "xl"
           },
@@ -159,7 +159,7 @@
             "contents": [],
             "flex": 2,
             "wrap": true,
-            "text": "台灣人骨子裡的行銷實力 \n🌟商品快速建立與上架🌟 \n🌟同步串流及影像處理🌟 \n🌟導購頁面 + 整合數據報表🌟"
+            "text": "🌟中原大學企業管理系畢業(輔修會計)🌟\n🌟宇正企業管理顧問有限公司負責人🌟 \n🌟宇姐~創業&稅務(Youtube)🌟 \n🌟服務上千家企業主🌟\n🌟專精企業五大管理的[財務管理]🌟"
           }
         ]
       },
@@ -171,8 +171,8 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "ShopTube介紹",
-              "uri": "https://drive.google.com/file/d/1751CqPU1vIHU_3WTuWhVFmvlcGkpk5iJ/view"
+              "label": "Youtube短片",
+              "uri": "https://conceptionseo.com/show-may-youtube"
             },
             "color": "#C48888",
             "style": "primary",
@@ -182,8 +182,8 @@
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "官方IG帳號",
-              "uri": "https://www.instagram.com/hsuan.chloe/"
+              "label": "IG-徐秀梅",
+              "uri": "https://instagram.com/yuzen.leader?igshid=vf3ztpoc5nn6"
             },
             "style": "primary",
             "color": "#B87070",
@@ -195,7 +195,7 @@
             "action": {
               "type": "uri",
               "label": "分享給好友",
-              "uri": "https://lin.ee/rRBj9MV"
+              "uri": "https://lin.ee/HaTLf5B"
             },
             "style": "primary",
             "color": "#AD5A5A",
