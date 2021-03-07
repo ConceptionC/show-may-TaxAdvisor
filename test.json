@@ -53,6 +53,17 @@
             "color": "#B87070",
             "height": "sm",
             "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "我的名片",
+              "uri": "https://conceptionseo.com/wp-content/uploads/2021/03/1615133295874.jpg"
+            },
+            "style": "primary",
+            "color": "#C48888",
+            "height": "sm"
           }
         ]
       }
