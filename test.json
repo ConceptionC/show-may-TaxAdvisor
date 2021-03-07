@@ -40,7 +40,8 @@
             },
             "style": "primary",
             "color": "#C48888",
-            "height": "sm"
+            "height": "sm",
+            "margin": "md"
           },
           {
             "type": "button",
@@ -63,7 +64,8 @@
             },
             "style": "primary",
             "color": "#C48888",
-            "height": "sm"
+            "height": "sm",
+            "margin": "md"
           }
         ]
       }
@@ -131,7 +133,8 @@
             },
             "style": "primary",
             "color": "#C48888",
-            "height": "sm"
+            "height": "sm",
+            "margin": "md"
           }
         ]
       }
@@ -199,7 +202,8 @@
             },
             "color": "#C48888",
             "style": "primary",
-            "height": "sm"
+            "height": "sm",
+            "margin": "md"
           }
         ]
       }
